@@ -10,7 +10,7 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
 module.exports = { session: process.env.SESSION_ID || 'Scenemd',
     PREFIXE: process.env.PREFIX || "+",
     GITHUB : process.env.GITHUB|| 'https://github.com/MARC701/BELTAH-MD',
-    OWNER_NAME : process.env.OWNER_NAME || "𝙰𝚛𝚜𝚕𝚊𝚗 𝙲𝚑𝚊𝚞𝚍𝚊𝚛𝚢",
+    OWNER_NAME : process.env.OWNER_NAME || "❝𝐀𝐫𝐬𝐥𝐚𝐧 𝐂𝐡𝐚𝐮𝐝𝐚𝐫𝐲❞",
     NUMERO_OWNER : process.env.NUMERO_OWNER || "923111977378",              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
