@@ -7,7 +7,7 @@
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
+  "logo": "https://files.catbox.moe/qt6581.jpg",
   "repository": "https://github.com/MARC701/BELTAH-MD",
   "succes_url": "/",
   "stack": "container",
@@ -70,8 +70,7 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "𝙰𝚛𝚜𝚕𝚊𝚗 𝙲𝚑𝚊𝚞𝚍𝚊𝚛𝚢"
-    },
+      "value": "❝𝐀𝐫𝐬𝐥𝐚𝐧 𝐂𝐡𝐚𝐮𝐝𝐚𝐫𝐲❞    },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
