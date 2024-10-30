@@ -1,11 +1,11 @@
-<h1 align="center">BELTAH-MD BOT</h1>
+<h1 align="center">𝙼𝙰𝚁𝙲 BOT</h1>
 <p align="center">  
 
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +SCENE-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BELTAH+TECH;RELEASED+18.10.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +𝙼𝙰𝚁𝙲;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+𝙰𝚛𝚜𝚕𝚊𝚗+𝙲𝚑𝚊𝚞𝚍𝚊𝚛𝚢;RELEASED+18.10.2024" alt="Typing SVG" /></a>
   </p>
-    <img alt="BELTAH-MD" width="700" height="300" src="https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg">
+    <img alt="𝙼𝙰𝚁𝙲" width="700" height="300" src="https://files.catbox.moe/qt6581.jpg">
 <p align="center">
 <p align="center">
 <a href="https://github.com/Beltahk/SCENE-MRM"><img title="Author" src="https://img.shields.io/badge/SCENE-MRM-black?style=for-the-badge&logo=github"></a>
@@ -25,7 +25,7 @@
 `PLAY CMD`
 `VIDEO CMD`
 `AND MANY MORE`
-✅ KEEP USING BELTAH-MD ✅
+✅ KEEP USING 𝙼𝙰𝚁𝙲 ✅
 
 #### SETUP PROCEDURE
 
@@ -58,21 +58,14 @@ allowed! For we shall not offer any help if any error occur!
 ***
 ### HELP :
 **IF you need any help**
-- [**CLICK HERE**](https:wa.me/254114141192)
+- [**CLICK HERE**](https:wa.me/923111977378)
 
 
 ***
 
 ### THANKS TO:
-GOD THE CREATOR ❤️
+THE CREATOR ❤️
 ### THANKS TO:
-- [***Beltah Tech 254 🇰🇪***](https://github.com/Beltahtech) For several Cmds Addition.
-- [***France King***](https://github.com/franceking1) For several latest Cmd scripts.
-- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **BELTAH-MD**
+- [***❝𝐀𝐫𝐬𝐥𝐚𝐧 𝐂𝐡𝐚𝐮𝐝𝐚𝐫𝐲❞ 701 🇵🇰***](https://github.com/MARC701) For several Cmds Addition.
 
-
-
-
-
-
-BELTAH-MD BOT ©️ 2024 
+### 𝙼𝙰𝚁𝙲 BOT ©️ 2024 
