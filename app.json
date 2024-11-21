@@ -1,14 +1,14 @@
 {
-  "name": "😡 BELTAH-MD 😡",
-  "description": "This BOT was developed by Beltah.",
+  "name": "𝙼𝙰𝚁𝙲",
+  "description": "This BOT was developed by 𝐀𝐫𝐬𝐥𝐚𝐧 𝐂𝐡𝐚𝐮𝐝𝐚𝐫𝐲.",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg",
-  "repository": "https://github.com/Huaweike/BELTAH-MD",
+  "logo": "https://files.catbox.moe/qt6581.jpg",
+  "repository": "https://github.com/MARC701/BELTAH-MD",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -44,17 +44,17 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "BELTAH-MD",
+      "value": "𝙼𝙰𝚁𝙲",
       "required": false
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"",
+      "value":"https://www.tiktok.com/@arslan_chaudary_701?_t=8qy7PkKCm5h&_r=1,https://www.instagram.com/arslan_chaudary_701/profilecard/?igsh=bzFxM2E1OWMzMGx3",
       "required": false
     },
     "PUBLIC_MODE": {
       "description": "type yes to put your bot on public mode or no to put it on private mod",
-      "value": "yes",
+      "value": "no",
       "required": false 
     },
     "HEROKU_APY_KEY": {
@@ -75,12 +75,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "𝐁𝐞𝐥𝐭𝐚𝐡 𝐤𝐞"
+      "value": "𝐀𝐫𝐬𝐥𝐚𝐧 𝐂𝐡𝐚𝐮𝐝𝐚𝐫𝐲"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "254114141192"
+      "value": "923111977378"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
@@ -94,12 +94,12 @@
     },
     "PRESENCE": {
       "description": "Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-      "value": "",
+      "value": "2",
       "required": false
     },
     "ANTI_DELETE_MESSAGE": {
       "description": "if you want to enable anti delete message put yes else put no",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "AUTO_REACTION": {
