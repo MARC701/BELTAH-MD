@@ -29,7 +29,7 @@
 
 #### SETUP PROCEDURE
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`]([https://github.com/MARC701/BELTAH-MD/fork](https://github.com/MARC701/BELTAH-MD/fork)) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/MARC701/BELTAH-MD/fork) It***
 
 ***2.`Get Session ID` by  [`PAIRING CODE`](https://bel-tah-sns.onrender.com/pair) or [`PAIR CODE 2`](https://bel-tah-sns.onrender.com/)***
 
