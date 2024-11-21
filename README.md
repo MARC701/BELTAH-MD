@@ -1,4 +1,4 @@
-<h1 align="center">MARC-MD BOT</h1>
+.<h1 align="center">MARC-MD BOT</h1>
 <p align="center">  
 
 ***
@@ -8,7 +8,7 @@
     <img alt="MARC-MD" width="700" height="300" src="https://files.catbox.moe/qt6581.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/Beltahk/SCENE-MRM"><img title="Author" src="https://img.shields.io/badge/SCENE-MRM-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Beltahk/SCENE-MRM"><img title="Author" src="https://img.shields.io/badge/MARC-MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/MARC701?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/MARC701?label=Followers&style=social"></a>
