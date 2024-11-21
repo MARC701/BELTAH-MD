@@ -253,7 +253,7 @@ function mybotpic() {
 
 // BELTAH MD DID EVERYTHING ,,,DO NOT COPY ...
 if (!superUser && origineMessage  === auteurMessage && conf.AUTO_REACT === "yes") {
-const emojis = ['👣', '🏗️', '✈️', '🌽', '🏸', '🛖', '🍁', '🛰️', '🥔', '🎡', '🎸', '🎼', '🔉', '📿', '🪇', '📹', '🎞️', '🪔', '📔', '🏷️', '💰', '📥', '🗳️', '📭', '🖌️', '📏', '', '🪛', '🔨', '⛓️‍💥', '📌', '🗝️', '🔍', '🥁', '🔊', '🥾', '👢', '🩰', '👡', '🙂', '🎊', '🎉', '🎁', '⛑️', '👋']
+const emojis = ['👣', '🏗️', '✈️', '💞', '🏸', '🛖', '🍁', '🛰️', '😍', '☺', '🎸', '🎼', '🔉', '📿', '🪇', '📹', '🎞️', '🪔', '📔', '🏷️', '💰', '📥', '🗳️', '📭', '🖌️', '📏', '', '☎', '💌', '⛓️‍💥', '📌', '🗝️', '🔍', '🇵🇰', '🔊', '🤗', '❤', '💟', '💕', '🙂', '🎊', '🎉', '🎁', '👑', '🎭']
          const emokis = emojis[Math.floor(Math.random() * (emojis.length))]
          zk.sendMessage(origineMessage, {
              react: {
@@ -282,7 +282,7 @@ zk.readMessages([ms.key]);
 
     await zk.rejectCall(callId, callerId);
     await zk.sendMessage(callerId, {
-      text: "```❗📵 sᴏʀʀʏ ,ɴᴏ ᴄᴀʟʟs ᴀʀᴇ ᴀʟʟᴏᴡᴇᴅ ,ᴋɪɴᴅʟʏ ᴛᴇxᴛ, ᴛʜᴀɴᴋ ʏᴏᴜ.\n> 𝐁𝐄𝐋𝐓𝐀𝐇-𝐌𝐃 𝐁𝐎𝐓 © 𝟐𝟎𝟐𝟒 ."
+      text: "```❗📵 sᴏʀʀʏ ,ɴᴏ ᴄᴀʟʟs ᴀʀᴇ ᴀʟʟᴏᴡᴇᴅ ,ᴋɪɴᴅʟʏ ᴛᴇxᴛ, ᴛʜᴀɴᴋ ʏᴏᴜ.\n> MARC-MD BOT © 2024 ."
     });
   }
 });*/
@@ -648,7 +648,7 @@ zk.readMessages([ms.key]);
                          /******************* PM_PERMT***************/
 
             if (!superUser && origineMessage === auteurMessage&& conf.PM_PERMIT === "yes" ) {
-                repondre("Sorry!!!Only Beltah and bot owner can command me in personal Mode.") ; return }
+                repondre("Sorry!!!Only 𝐀𝐫𝐬𝐥𝐚𝐧 𝐂𝐡𝐚𝐮𝐝𝐚𝐫𝐲 and bot owner can command me in personal Mode.") ; return }
             ///////////////////////////////
 
              
@@ -717,7 +717,7 @@ zk.ev.on('group-participants.update', async (group) => {
             }
 
             msg += `You might want to read the group Description to avoid getting removed...
-> BELTAH-MD BOT © 2024 VERSION.`;
+> MARC-MD BOT © 2024 VERSION.`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
@@ -795,7 +795,7 @@ zk.ev.on('group-participants.update', async (group) => {
                   zk.sendMessage(crons[i].group_id, { image : { url : './media/chrono.webp'} , caption: "Hello, it's time to close the group; my sayard." });
 
                 }, {
-                    timezone: "Africa/Nairobi"
+                    timezone: "Asia/Karachi"
                   });
               }
         
@@ -812,7 +812,7 @@ zk.ev.on('group-participants.update', async (group) => {
 
                  
                 },{
-                    timezone: "Africa/Nairobi"
+                    timezone: "Asia/Karachi"
                   });
               }
         
@@ -845,23 +845,23 @@ zk.ev.on('group-participants.update', async (group) => {
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ Beltah md connecting in your account...");
+                console.log("ℹ️ MARC md connecting in your account...");
             }
             else if (connection === 'open') {
-                console.log("✅ Beltah Md connected successfully☺️");
+                console.log("✅ MARC Md connected successfully☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log(" Beltah-md loading plugins😇\n\n");
+                console.log(" MARC-md loading plugins😇\n\n");
                 //chargement des commandes 
                 console.log("chargement des plugins ...\n");
                 fs.readdirSync(__dirname + "/plugins").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
                             require(__dirname + "/plugins/" + fichier);
-                            console.log(fichier + " Loaded successfully by Beltah✔️");
+                            console.log(fichier + " Loaded successfully by MARC✔️");
                         }
                         catch (e) {
                             console.log(`${fichier} could not be loaded for the following reasons : ${e}`);
@@ -881,23 +881,25 @@ zk.ev.on('group-participants.update', async (group) => {
                 else {
                     md = "undefined";
                 }
-                console.log("Beltah md successfully connected✅");
+                console.log("MARC md successfully connected✅");
 
                 await activateCrons();
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
-                let cmsg = `ʙᴇʟᴛᴀʜ-ᴍᴅ ʙᴏᴛ ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ...
+                let cmsg = `ᴍᴀʀᴄ-ᴍᴅ ʙᴏᴛ ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ...
 
  ╭────────────────◆
- │  ᴘʀᴇғɪx : [ ${prefixe} ]
- │  ᴍᴏᴅᴇ : ${md}
- │  ᴘʟᴜɢɪɴs : 345
- │  ᴘʟᴀᴛғᴏʀᴍ : ᴄʜʀᴏᴍᴇ(ᴜʙᴜɴᴛᴜ)
- │  ᴅᴇᴠ : ʙᴇʟᴛᴀʜ ᴛᴇᴄʜ 254 🇰🇪
+ ⬡│▸  ᴘʀᴇғɪx : [ ${prefixe} ]
+ ⬡│▸  ᴍᴏᴅᴇ : ${md}
+ ⬡│▸  ᴘʟᴜɢɪɴs : 345
+ ⬡│▸  ᴘʟᴀᴛғᴏʀᴍ : ᴄʜʀᴏᴍᴇ(ᴜʙᴜɴᴛᴜ)
+ ⬡│▸  ᴅᴇᴠ : 𝐀𝐫𝐬𝐥𝐚𝐧 𝐂𝐡𝐚𝐮𝐝𝐚𝐫𝐲  🇵🇰
+ ⬡│▸  ɪɴꜱᴛᴀ : https://www.instagram.com/arslan_chaudary_701
+ ⬡│▸  ᴛɪᴋᴛᴏᴋ : https://tiktok.com/@arslan_chaudary_701
  ╰─────────────────◆
 
-sᴜᴘᴘᴏʀᴛ ʙʏ sᴜʙsᴄʀɪʙɪɴɢ
-youtube.com/@Beltahtech2024`;
+sᴜᴘᴘᴏʀᴛ ʙʏ ꜰᴏʟʟᴏᴡɪɴɢ
+https://tiktok.com/@arslan_chaudary_701`;
                 await zk.sendMessage( zk.user.id, { text: cmsg });
                 }
             }
@@ -911,7 +913,7 @@ youtube.com/@Beltahtech2024`;
                     main();
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason.connectionLost) {
-                    console.log('connection error😞 ,,beltah trying to reconnect... ');
+                    console.log('connection error😞 ,,MARC trying to reconnect... ');
                     main();
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason?.connectionReplaced) {
