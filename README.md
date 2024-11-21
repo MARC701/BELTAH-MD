@@ -3,7 +3,7 @@
 
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +MARC-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+𝐀𝐫𝐬𝐥𝐚𝐧+𝐂𝐡𝐚𝐮𝐝𝐚𝐫𝐲;RELEASED+18.10.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +MARC-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+𝐀𝐫𝐬𝐥𝐚𝐧+𝐂𝐡𝐚𝐮𝐝𝐚𝐫𝐲;RELEASED+21.11.2024" alt="Typing SVG" /></a>
   </p>
     <img alt="MARC-MD" width="700" height="300" src="https://files.catbox.moe/qt6581.jpg">
 <p align="center">
